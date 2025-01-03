@@ -1,0 +1,9 @@
+﻿  InsCalibrationTool.cpp
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsCalibrationTool.cpp(99,17): warning C4996: 'cv::estimateRigidTransform': 被声明为已否决
+  InsCSharpToCPP.cpp
+  InsImageProcessingTool.cpp
+  InsShowImageTool.cpp
+  main.cpp
+  正在生成代码...
+    正在创建库 E:\5.VPE\3.框架程序\INSVS\INSNEX\INSVSCPP.lib 和对象 E:\5.VPE\3.框架程序\INSVS\INSNEX\INSVSCPP.exp
+  INSVSCPP.vcxproj -> E:\5.VPE\3.框架程序\INSVS\INSNEX\INSVSCPP.dll

@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\5.VPE\\3.\u6846\u67B6\u7A0B\u5E8F\\INSVSCPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88F86023-A3EC-4489-B7F1-34A149424905}|INSVSCPP\\INSVSCPP.vcxproj|E:\\5.VPE\\3.\u6846\u67B6\u7A0B\u5E8F\\INSVSCPP\\INSVSCPP\\InsCSharpToCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88F86023-A3EC-4489-B7F1-34A149424905}|INSVSCPP\\INSVSCPP.vcxproj|solutionrelative:INSVSCPP\\InsCSharpToCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F86023-A3EC-4489-B7F1-34A149424905}|INSVSCPP\\INSVSCPP.vcxproj|E:\\5.VPE\\3.\u6846\u67B6\u7A0B\u5E8F\\INSVSCPP\\INSVSCPP\\InsImageProcessingTool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88F86023-A3EC-4489-B7F1-34A149424905}|INSVSCPP\\INSVSCPP.vcxproj|solutionrelative:INSVSCPP\\InsImageProcessingTool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 455,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsCSharpToCPP.cpp",
+              "DocumentMoniker": "E:\\5.VPE\\3.\u6846\u67B6\u7A0B\u5E8F\\INSVSCPP\\INSVSCPP\\InsCSharpToCPP.cpp",
+              "RelativeDocumentMoniker": "INSVSCPP\\InsCSharpToCPP.cpp",
+              "ToolTip": "E:\\5.VPE\\3.\u6846\u67B6\u7A0B\u5E8F\\INSVSCPP\\INSVSCPP\\InsCSharpToCPP.cpp",
+              "RelativeToolTip": "INSVSCPP\\InsCSharpToCPP.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T08:19:59.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsImageProcessingTool.cpp",
+              "DocumentMoniker": "E:\\5.VPE\\3.\u6846\u67B6\u7A0B\u5E8F\\INSVSCPP\\INSVSCPP\\InsImageProcessingTool.cpp",
+              "RelativeDocumentMoniker": "INSVSCPP\\InsImageProcessingTool.cpp",
+              "ToolTip": "E:\\5.VPE\\3.\u6846\u67B6\u7A0B\u5E8F\\INSVSCPP\\INSVSCPP\\InsImageProcessingTool.cpp",
+              "RelativeToolTip": "INSVSCPP\\InsImageProcessingTool.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T08:19:56.172Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
