@@ -8,15 +8,15 @@ using namespace InsImageProcessingTool;
 using namespace InsShowImageTool;
 
 namespace InsCSharpToCPP {
-
-	Mat GetMatFromBitMap(uchar* data, int width, int height, int channels) {
-		Mat image(height, width, (channels == 3 ? CV_8UC3 : CV_8UC1), data);
-
-		return image.clone();
-	}
-	void GetPtrFromMat(Mat image, uchar* outputData) {
-		memcpy(outputData, image.data, image.total() * image.elemSize());
-	}
+	/// <summary>
+	/// 以图像数组数据的形式翻转图像
+	/// </summary>
+	/// <param name="inputData">输入图像数组数据指针</param>
+	/// <param name="outputData">输出图像数组数据指针</param>
+	/// <param name="width">图像宽度</param>
+	/// <param name="height">图像高度</param>
+	/// <param name="channels">像素通道数</param>
+	/// <param name="flipWay">翻转方向</param>
 	extern "C" _declspec(dllexport) void FlipImage(
 		uchar* inputData,
 		uchar* outputData,
@@ -25,9 +25,13 @@ namespace InsCSharpToCPP {
 		int channels,
 		FlipWay flipWay
 	) {
-		Mat image = GetMatFromBitMap(inputData, width, height, channels);
-		Mat flippedImg = Flip(image.clone(), flipWay);
-		GetPtrFromMat(flippedImg, outputData);
-		//ShowImage(flippedImg);
+		try {
+			Mat image = ucharToMat(inputData, width, height, channels);
+			Mat flippedImg = Flip(image.clone(), flipWay);
+			MatTouchar(flippedImg, outputData);
+		}
+		catch (exception) {
+
+		}
 	}
 }

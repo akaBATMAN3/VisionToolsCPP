@@ -1,9 +1,19 @@
-﻿  InsCalibrationTool.cpp
-E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsCalibrationTool.cpp(99,17): warning C4996: 'cv::estimateRigidTransform': 被声明为已否决
-  InsCSharpToCPP.cpp
-  InsImageProcessingTool.cpp
-  InsShowImageTool.cpp
-  main.cpp
-  正在生成代码...
-    正在创建库 E:\5.VPE\3.框架程序\INSVS\INSNEX\INSVSCPP.lib 和对象 E:\5.VPE\3.框架程序\INSVS\INSNEX\INSVSCPP.exp
-  INSVSCPP.vcxproj -> E:\5.VPE\3.框架程序\INSVS\INSNEX\INSVSCPP.dll
+﻿  InsImageProcessingTool.cpp
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(146,45): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(146,45): warning C4244:         with
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(146,45): warning C4244:         [
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(146,45): warning C4244:             _Tp=float
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(146,45): warning C4244:         ]
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(146,27): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(146,27): warning C4244:         with
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(146,27): warning C4244:         [
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(146,27): warning C4244:             _Tp=float
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(146,27): warning C4244:         ]
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(121,1): warning C4715: “InsImageProcessingTool::MorphologyOperation”: 不是所有的控件路径都返回值
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(172,1): warning C4715: “InsImageProcessingTool::AffineTrans”: 不是所有的控件路径都返回值
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(100,1): warning C4715: “InsImageProcessingTool::GammaCorrection”: 不是所有的控件路径都返回值
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(61,1): warning C4715: “InsImageProcessingTool::Flip”: 不是所有的控件路径都返回值
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(31,1): warning C4715: “InsImageProcessingTool::ucharToMat”: 不是所有的控件路径都返回值
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(79,1): warning C4715: “InsImageProcessingTool::GainAndBias”: 不是所有的控件路径都返回值
+E:\5.VPE\3.框架程序\INSVSCPP\INSVSCPP\InsImageProcessingTool.cpp(138,1): warning C4715: “InsImageProcessingTool::Convolution”: 不是所有的控件路径都返回值
+  INSVSCPP.vcxproj -> E:\5.VPE\3.框架程序\INSVS\INSNEX\INSVSCPP.exe

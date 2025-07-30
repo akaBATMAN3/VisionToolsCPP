@@ -30,6 +30,9 @@
     <ClCompile Include="InsShowImageTool.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="InsUtilies.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="InsCalibrationTool.hpp">
@@ -42,6 +45,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="InsCSharpToCPP.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InsThreadPool.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InsUtilies.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
